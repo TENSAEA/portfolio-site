@@ -1,33 +1,32 @@
 {
     "experiences": [
+       
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Customizer",
+            "subtitle": "Addis Ababa University Digital Library",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Worked on DSPACE"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "11/2023 – 02/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Coding Trainer",
+            "subtitle": "Code JIKA and KODER lab Company",
+            "workType": "Programming Instructor",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+               
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "04/2024 – Present"
+        },
+        {
+            "title": "Technology Club President",
+            "subtitle": "Addis Ababa University",
+            "workType": "President",
+            "workDescription": [
+               
+            ],
+            "dateText": "09/2023 – Present"
         }
     ]
 }
